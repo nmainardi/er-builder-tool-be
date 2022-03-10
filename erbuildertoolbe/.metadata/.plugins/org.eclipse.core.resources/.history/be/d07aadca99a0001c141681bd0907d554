@@ -1,0 +1,5 @@
+package com.eldenringbuildertool.erbuildertool.model;
+
+public class Gear {
+
+}

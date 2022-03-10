@@ -1,0 +1,28 @@
+package com.eldenringbuildertool.erbuildertool.model;
+
+public class Gear {
+	String file;
+	String name;
+	Double phy;
+	
+	
+	/*
+	 * 
+"file":"/file/Elden-Ring/white-reed-armor-armor-elden-ring-wiki-guide.png",
+"name":"White Reed Armor",
+"phy":9.5,
+"strike":10.2,
+"slash":11.4,
+"pierce":8.8,
+"mag":10.9,
+"fir":10.9,
+"lit":11.9,
+"hol":10.2,
+"immunity":67,
+"robustness":42,
+"focus":55,
+"vitality":50,
+"poise":8,
+"wgt":8.3
+	 */
+}
