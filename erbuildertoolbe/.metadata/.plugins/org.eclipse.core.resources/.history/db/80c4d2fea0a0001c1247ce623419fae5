@@ -1,0 +1,19 @@
+package com.eldenringbuildertool.erbuildertool.service;
+
+import java.util.List;
+
+import com.eldenringbuildertool.erbuildertool.model.Gear;
+import com.eldenringbuildertool.erbuildertool.persistency.GearMapper;
+
+public class GearService {
+	
+	static final String ELMI="elmi";
+	static final String CORPETTI="corpetti";
+	static final String GUANTI="guanti";
+	static final String PANTALONI="pantaloni";
+	
+	static public List<Gear> getElmetti() {
+		GearMapper.getGearFromJSON(ELMI);
+		return null;
+	}
+}

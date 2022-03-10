@@ -1,0 +1,5 @@
+package com.eldenringbuildertool.erbuildertool.service;
+
+public class GearService {
+
+}

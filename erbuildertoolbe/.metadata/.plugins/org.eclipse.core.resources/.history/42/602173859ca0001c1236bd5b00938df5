@@ -1,0 +1,9 @@
+package com.eldenringbuildertool.erbuildertool.persistency;
+
+import java.util.Map;
+
+public class GearMapper {
+	public Map<String,Object> getGearFromJSON(){
+		
+	}
+}

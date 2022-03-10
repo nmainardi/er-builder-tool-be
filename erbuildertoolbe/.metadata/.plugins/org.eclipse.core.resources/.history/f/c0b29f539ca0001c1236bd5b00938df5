@@ -1,0 +1,8 @@
+package com.eldenringbuildertool.erbuildertool.service;
+
+public class GearService {
+	
+	static public List<Gear> getElmetti() {
+		
+	}
+}

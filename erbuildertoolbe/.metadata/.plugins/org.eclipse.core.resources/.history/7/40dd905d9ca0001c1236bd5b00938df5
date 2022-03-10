@@ -1,0 +1,5 @@
+package com.eldenringbuildertool.erbuildertool.persistency;
+
+public class GearMapper {
+
+}

@@ -1,0 +1,12 @@
+package com.eldenringbuildertool.erbuildertool.service;
+
+import java.util.List;
+
+import com.eldenringbuildertool.erbuildertool.model.Gear;
+
+public class GearService {
+	
+	static public List<Gear> getElmetti() {
+		return null;
+	}
+}
